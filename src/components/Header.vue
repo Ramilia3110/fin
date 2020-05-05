@@ -3,7 +3,7 @@
     <div class="container"></div>
     <div class="video-wrapper">
       <video autoplay muted loop id="bgVideo">
-        <source src="@/assets/1.mp4" type="video/mp4" />
+        <source src="@/assets/hero.mp4" type="video/mp4" />
       </video>
       <div class="text-content">
         <h1>
